@@ -4,6 +4,11 @@ export default [
     link: 'https://www.bakerchen.top',
     avator: 'https://www.bakerchen.top/logo.png',
   },
+ {
+    thumbnail: 'https://wangguiyang.top/assets/Coding-50f7caf4.gif',
+    link: 'https://www.wangguiyang.top/',
+    avator: 'https://wangguiyang.top/avatar.jpg',
+  },
   {
     thumbnail:
       'https://user-images.githubusercontent.com/18067907/234058377-28a7e909-ae5c-4e7d-a35b-2968848bef89.png',
