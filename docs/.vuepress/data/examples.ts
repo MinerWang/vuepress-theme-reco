@@ -27,6 +27,11 @@ export default [
     link: 'https://www.recoluan.com',
     avator: 'https://www.recoluan.com/head.png',
   },
+    {
+    thumbnail:'https://www.wangguiyang.top//images/54.jpg',
+    link: 'https://wangguiyang.top',
+    avator: 'https://wangguiyang.top/avatar.jpg',
+  },
   {
     thumbnail:
       'https://www.wstee.com/banner.svg',
